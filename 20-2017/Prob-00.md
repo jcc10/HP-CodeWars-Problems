@@ -1,4 +1,4 @@
-#Rocky Mountain Hello
+# Rocky Mountain Hello
 >Note: This is the 1'st of two problems that can be solved and submitted before the start of the CodeWars cometition. Teams are **Strongly** encouraged to submit this problem **prior** to the start of the cometition - hey, it's basically a free point!
 
 ## Summary
