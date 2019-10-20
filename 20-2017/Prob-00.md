@@ -11,7 +11,8 @@ None.
 
 ### Case 1:
 #### Input
-None.
+```
+```
 #### Output
 ```
 Go Rams Go!
