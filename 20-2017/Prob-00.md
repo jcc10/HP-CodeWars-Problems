@@ -9,8 +9,10 @@ The sole purpose of this problem is to allow each team to submit a test program 
 Go Rams Go!
 ```
 
----
-***The Cut.***
+---  
+
+**The Cut.**  
+
 ---
 
 ## Problem
