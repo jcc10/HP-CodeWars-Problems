@@ -1,5 +1,7 @@
 # Time of Flight Sensor
 
+**Points: 3**
+
 ## Summary
 You probably already know that light travels really, really fast. Really. However, you may not know that you can use light to measure distances by timing how long it takes a pulse of light to reflect from a surface. A working TOF sensor requires really high speed electronics because light travels 0.299792 millimetres per picosecond. The most amazing part is you can buy a Time-of-Flight sensor online for less than $20. It's true. No, really. It's pretty cool, to. Look it up after the contest.
 

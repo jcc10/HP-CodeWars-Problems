@@ -1,5 +1,7 @@
 # A Momentous Occasion
 
+**Points: 2**
+
 ## Summary
 Congratulations! You are about to become the first human to land on the surface of Mars! Tou will need to work out one important detail before landing: exactly how much thrust (or force) will be required for your spacecraft to slow down. In order to answer that question, first you'll need to know your spacecraft's momentum.
 

@@ -1,6 +1,7 @@
 # All Talk
 >Note: This is the 2<sup>nd</sup> of two problems that can be solved and submitted before the start of the CodeWars cometition. Teams are **Strongly** encouraged to submit this problem **prior** to the start of the cometition - hey, it's basically a free point!
 
+**Points: 1**
 
 ## Summary
 Without good communication skills, life will be more challenging for you. And if you don't know how to do Input and Output properly, the CodeWars competition will not go well for you. So, here's your chance for a little practice before the actual contest begins.
