@@ -10,7 +10,7 @@ Go Rams Go!
 ```
 
 ---
-# The Cut.
+***The Cut.***
 ---
 
 ## Problem
