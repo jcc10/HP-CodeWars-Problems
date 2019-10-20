@@ -7,6 +7,12 @@ The sole purpose of this problem is to allow each team to submit a test program 
 ## Data / Equations
 None.
 
+## Formatting
+#### Input
+No input will be given.
+#### Output
+The literal text ```Go Rams Go!```
+
 ## Test Cases
 
 ### Case 1:
