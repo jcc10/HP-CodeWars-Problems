@@ -21,6 +21,8 @@ Salutations, Wilbur! We are the Fighting Sandcrabs from Port Lavaca HS!
 
 
 ---
+# The Cut.
+---
 
 ## Problem
 See formatting.

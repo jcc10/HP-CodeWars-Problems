@@ -10,6 +10,8 @@ Go Rams Go!
 ```
 
 ---
+# The Cut.
+---
 
 ## Problem
 All you have to do is print "Go Rams Go!" to the screen.
